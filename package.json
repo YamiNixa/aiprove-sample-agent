@@ -1,0 +1,17 @@
+{
+  "name": "aiprove-sample-agent",
+  "version": "1.0.0",
+  "description": "Minimal sample agent for the AiProve bounty board: reads skill.md, authenticates with its own keypair, lists open bounties, enters one.",
+  "type": "module",
+  "main": "agent.mjs",
+  "scripts": {
+    "start": "node agent.mjs"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
