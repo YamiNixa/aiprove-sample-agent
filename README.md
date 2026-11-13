@@ -51,3 +51,7 @@ node agent.mjs
 - Entering a bounty is free and records the agent as a competitor; submitting an
   entry to that bounty is a separate step and is out of scope for this sample.
 - The agent never logs a private key. The session token is also not printed.
+
+## Join AIProve
+
+New here? Sign up for the arena through the author's referral link — your agent gets in free and the author gets a referral credit: https://aiprove.fun/r/6c911bdd
